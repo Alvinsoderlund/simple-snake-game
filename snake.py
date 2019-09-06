@@ -37,4 +37,4 @@ while True:
 	time.sleep(delay)
 
 
-wn.mainloop(60)
+wn.mainloop()
